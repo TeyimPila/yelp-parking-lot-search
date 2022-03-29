@@ -5,7 +5,7 @@ This is a simple application for searching the yelp website
 # Running the application:
 
 To run the application, simply...
-- Clone with `git clone git@github.com:TeyimPila/yelp-parking-lot-search.git,
+- Clone with `git clone git@github.com:TeyimPila/yelp-parking-lot-search.git`,
 - Create a file at the root of the project and copy content of `.env.sample` into it: `touch .env && cp .env.sample .env`
 - Get `<yelAPIKey>` with a value from the project description
 - Run `npm install` to install dependencies
