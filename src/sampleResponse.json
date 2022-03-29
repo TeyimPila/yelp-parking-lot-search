@@ -1,0 +1,769 @@
+{
+  "response": {
+    "businesses": [
+      {
+        "id": "iNaFCSnbclmJbMktVaAV4A",
+        "alias": "auto-storage-systems-brooklyn",
+        "name": "Auto Storage Systems",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oQ4Gvbg67MqmfJjF9hyfZw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/auto-storage-systems-brooklyn?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 22,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 5,
+        "coordinates": {
+          "latitude": 40.672838,
+          "longitude": -73.95096
+        },
+        "transactions": [],
+        "location": {
+          "address1": "827 Sterling Pl",
+          "address2": "",
+          "address3": "",
+          "city": "Brooklyn",
+          "zip_code": "11216",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "827 Sterling Pl",
+            "Brooklyn, NY 11216"
+          ]
+        },
+        "phone": "+17184939800",
+        "display_phone": "(718) 493-9800",
+        "distance": 5153.3975306033135
+      },
+      {
+        "id": "5xpiuD4AVfUhfQ8-pLotfg",
+        "alias": "bolt-parking-lot-astoria",
+        "name": "Bolt Parking Lot",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kEpBXRwOzwYsb47AbR2l-Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bolt-parking-lot-astoria?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 192,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 40.7796281,
+          "longitude": -73.9059091
+        },
+        "transactions": [],
+        "location": {
+          "address1": "31-11 20th Ave",
+          "address2": "",
+          "address3": null,
+          "city": "Astoria",
+          "zip_code": "11105",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "31-11 20th Ave",
+            "Astoria, NY 11105"
+          ]
+        },
+        "phone": "+17184142479",
+        "display_phone": "(718) 414-2479",
+        "distance": 11118.796105604151
+      },
+      {
+        "id": "eXIEbOrEar3x0ye0RYMLEw",
+        "alias": "bridgeview-auto-services-center-new-york",
+        "name": "Bridgeview Auto Services Center",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/D_nlqd2lo0qyx6PhD9pZcA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bridgeview-auto-services-center-new-york?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 18,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          },
+          {
+            "alias": "autorepair",
+            "title": "Auto Repair"
+          },
+          {
+            "alias": "tires",
+            "title": "Tires"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 40.7149,
+          "longitude": -73.99424
+        },
+        "transactions": [],
+        "location": {
+          "address1": "26 Forsyth St",
+          "address2": null,
+          "address3": "",
+          "city": "New York",
+          "zip_code": "10002",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "26 Forsyth St",
+            "New York, NY 10002"
+          ]
+        },
+        "phone": "+12122266465",
+        "display_phone": "(212) 226-6465",
+        "distance": 1045.5184514264815
+      },
+      {
+        "id": "ZktvFCPOMrSZnk-fYL8DSQ",
+        "alias": "motorgrrl-greenpoint",
+        "name": "MotorGrrl",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ONDBRndo64wEAjQZcb7GCw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/motorgrrl-greenpoint?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 40,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          },
+          {
+            "alias": "towing",
+            "title": "Towing"
+          },
+          {
+            "alias": "motorcyclerepair",
+            "title": "Motorcycle Repair"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 40.7238655,
+          "longitude": -73.9536667
+        },
+        "transactions": [],
+        "location": {
+          "address1": "42 Dobbin St",
+          "address2": "",
+          "address3": "",
+          "city": "Greenpoint",
+          "zip_code": "11222",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "42 Dobbin St",
+            "Greenpoint, NY 11222"
+          ]
+        },
+        "phone": "+17183840811",
+        "display_phone": "(718) 384-0811",
+        "distance": 3988.495624354138
+      },
+      {
+        "id": "b8cZI3sjQNZzBiJ-yGFnZw",
+        "alias": "edison-parkfast-new-york-16",
+        "name": "Edison ParkFast",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BazJgLKX8patTNuJDxm-Wg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/edison-parkfast-new-york-16?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 77,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 3,
+        "coordinates": {
+          "latitude": 40.75557964275589,
+          "longitude": -73.982834815979
+        },
+        "transactions": [],
+        "location": {
+          "address1": "50 W 44th St",
+          "address2": "",
+          "address3": "",
+          "city": "New York",
+          "zip_code": "10036",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "50 W 44th St",
+            "New York, NY 10036"
+          ]
+        },
+        "phone": "+12126262680",
+        "display_phone": "(212) 626-2680",
+        "distance": 5657.71887354361
+      },
+      {
+        "id": "vQ5teY7AMJxOkdz7CdYojQ",
+        "alias": "airpark-east-elmhurst",
+        "name": "Airpark",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TrWk2_9-hxYU3s27wAta1g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/airpark-east-elmhurst?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 81,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+          "latitude": 40.770832,
+          "longitude": -73.870523
+        },
+        "transactions": [],
+        "location": {
+          "address1": "99-11 Ditmars Blvd",
+          "address2": "",
+          "address3": "",
+          "city": "East Elmhurst",
+          "zip_code": "11369",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "99-11 Ditmars Blvd",
+            "East Elmhurst, NY 11369"
+          ]
+        },
+        "phone": "+17188988400",
+        "display_phone": "(718) 898-8400",
+        "distance": 12712.388509813645
+      },
+      {
+        "id": "N3M2QfzagWNtFF3tFQmIuw",
+        "alias": "125-verticle-parking-new-york",
+        "name": "125 Verticle Parking",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ofJKnaOs4aG2Nqw9sGeKdg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/125-verticle-parking-new-york?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 12,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 40.71815,
+          "longitude": -73.99868
+        },
+        "transactions": [],
+        "location": {
+          "address1": "123 Baxter St",
+          "address2": null,
+          "address3": null,
+          "city": "New York",
+          "zip_code": "10013",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "123 Baxter St",
+            "New York, NY 10013"
+          ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1453.109486614727
+      },
+      {
+        "id": "cBg0SPzdxtLMMBiQmjHPWg",
+        "alias": "cycle-garage-new-york",
+        "name": "Cycle Garage",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vPPkCv7chXLiDwOGSFOBIA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cycle-garage-new-york?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 5,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 5,
+        "coordinates": {
+          "latitude": 40.7248344421387,
+          "longitude": -73.9793319702148
+        },
+        "transactions": [],
+        "location": {
+          "address1": "330 E 8th St",
+          "address2": "",
+          "address3": "",
+          "city": "New York",
+          "zip_code": "10009",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "330 E 8th St",
+            "New York, NY 10009"
+          ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 2498.134481041365
+      },
+      {
+        "id": "GaQHeS8kaft8efLLNxTDsA",
+        "alias": "delancey-and-essex-municipal-parking-garage-manhattan",
+        "name": "Delancey and Essex Municipal Parking Garage",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/56BTu1V6_cQDBn68ajAlkA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/delancey-and-essex-municipal-parking-garage-manhattan?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 19,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 3,
+        "coordinates": {
+          "latitude": 40.7192005,
+          "longitude": -73.9880466
+        },
+        "transactions": [],
+        "location": {
+          "address1": "107 Essex St",
+          "address2": "",
+          "address3": "",
+          "city": "Manhattan",
+          "zip_code": "10002",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "107 Essex St",
+            "Manhattan, NY 10002"
+          ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1626.0293738603605
+      },
+      {
+        "id": "_WX1ViMlP0iQyr666bqMLg",
+        "alias": "automotion-parking-manhattan",
+        "name": "Automotion Parking",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4XicWJpIFHweD5owKCgAOQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/automotion-parking-manhattan?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 13,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 3,
+        "coordinates": {
+          "latitude": 40.7181587,
+          "longitude": -73.9986877
+        },
+        "transactions": [],
+        "location": {
+          "address1": "123 Baxter St",
+          "address2": "",
+          "address3": "",
+          "city": "Manhattan",
+          "zip_code": "10013",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "123 Baxter St",
+            "Manhattan, NY 10013"
+          ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1470.4423218676923
+      },
+      {
+        "id": "kiAeloIxKRvPevwsegm9Lw",
+        "alias": "edison-parkfast-new-york-9",
+        "name": "Edison ParkFast",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WhDuI9p-u9Gx4tWtP-BiLA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/edison-parkfast-new-york-9?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 10,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 40.7184063,
+          "longitude": -73.9991895854473
+        },
+        "transactions": [],
+        "location": {
+          "address1": "174 Centre St",
+          "address2": "",
+          "address3": "",
+          "city": "New York",
+          "zip_code": "10013",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "174 Centre St",
+            "New York, NY 10013"
+          ]
+        },
+        "phone": "+12122262950",
+        "display_phone": "(212) 226-2950",
+        "distance": 1499.1666906122484
+      },
+      {
+        "id": "VpmsXq1bCsWpDWA0QQ7wOw",
+        "alias": "manhattan-plaza-garage-convention-center-parking-manhattan",
+        "name": "Manhattan Plaza Garage/Convention Center Parking",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7WaTPP3tBHO_Iy91r_R3aA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/manhattan-plaza-garage-convention-center-parking-manhattan?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 21,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 3,
+        "coordinates": {
+          "latitude": 40.7593,
+          "longitude": -73.994036
+        },
+        "transactions": [],
+        "location": {
+          "address1": "W 42nd St",
+          "address2": "",
+          "address3": "",
+          "city": "Manhattan",
+          "zip_code": "10036",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "W 42nd St",
+            "Manhattan, NY 10036"
+          ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 5988.4504232109
+      },
+      {
+        "id": "Box77db57zKc6XvUD1VFRA",
+        "alias": "central-parking-systems-manhattan",
+        "name": "Central Parking Systems",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-6b-FGNl09Sfq1Cr5g0-MQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/central-parking-systems-manhattan?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 15,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 3,
+        "coordinates": {
+          "latitude": 40.7072987,
+          "longitude": -74.0140531
+        },
+        "transactions": [],
+        "location": {
+          "address1": "70 Greenwich St",
+          "address2": "",
+          "address3": "",
+          "city": "Manhattan",
+          "zip_code": "10006",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "70 Greenwich St",
+            "Manhattan, NY 10006"
+          ]
+        },
+        "phone": "+12124251065",
+        "display_phone": "(212) 425-1065",
+        "distance": 1683.626938466518
+      },
+      {
+        "id": "4u0hZIOEJI05UFMqFCuvXg",
+        "alias": "pv-parking-astoria-long-island-city",
+        "name": "PV Parking Astoria",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-p_XTy8VC7mVzhaXiSLpeA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pv-parking-astoria-long-island-city?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 3,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 5,
+        "coordinates": {
+          "latitude": 40.7563932,
+          "longitude": -73.9210792
+        },
+        "transactions": [],
+        "location": {
+          "address1": "34-11 Steinway St",
+          "address2": null,
+          "address3": null,
+          "city": "Long Island City",
+          "zip_code": "11101",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "34-11 Steinway St",
+            "Long Island City, NY 11101"
+          ]
+        },
+        "phone": "+17186091200",
+        "display_phone": "(718) 609-1200",
+        "distance": 8375.703150282505
+      },
+      {
+        "id": "FfbI9vkkQWBOZfww6_nuOQ",
+        "alias": "columbus-garage-jersey-city",
+        "name": "Columbus Garage",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/34BF2oB0jkJKOHB7HrhctA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/columbus-garage-jersey-city?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 11,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 40.7192567,
+          "longitude": -74.0416172
+        },
+        "transactions": [],
+        "location": {
+          "address1": "66 Christopher Columbus Dr",
+          "address2": "",
+          "address3": "",
+          "city": "Jersey City",
+          "zip_code": "07302",
+          "country": "US",
+          "state": "NJ",
+          "display_address": [
+            "66 Christopher Columbus Dr",
+            "Jersey City, NJ 07302"
+          ]
+        },
+        "phone": "+12014350471",
+        "display_phone": "(201) 435-0471",
+        "distance": 4082.1592577674337
+      },
+      {
+        "id": "hiPsMm84AXCIYhGyjH1IGg",
+        "alias": "gmc-parking-redball-new-york",
+        "name": "GMC Parking- Redball",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ipUd9UEIu4XfRSTyAqNPfQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/gmc-parking-redball-new-york?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 18,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+          "latitude": 40.74405,
+          "longitude": -73.98028
+        },
+        "transactions": [],
+        "location": {
+          "address1": "142 E 31st St",
+          "address2": null,
+          "address3": "",
+          "city": "New York",
+          "zip_code": "10016",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "142 E 31st St",
+            "New York, NY 10016"
+          ]
+        },
+        "phone": "+12126832056",
+        "display_phone": "(212) 683-2056",
+        "distance": 4440.276138747973
+      },
+      {
+        "id": "4WNrhQS-hd8XV8AWtXY35g",
+        "alias": "battery-parking-garage-new-york",
+        "name": "Battery Parking Garage",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vQKy9D5IgLebrFxp8Ukjxg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/battery-parking-garage-new-york?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 8,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 40.70720212401857,
+          "longitude": -74.01440354297185
+        },
+        "transactions": [],
+        "location": {
+          "address1": "70 Greenwich St",
+          "address2": "",
+          "address3": "",
+          "city": "New York",
+          "zip_code": "10006",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "70 Greenwich St",
+            "New York, NY 10006"
+          ]
+        },
+        "phone": "+12124251065",
+        "display_phone": "(212) 425-1065",
+        "distance": 1706.3764032112683
+      },
+      {
+        "id": "3jU5I1JOnRj18DHCEhRxxg",
+        "alias": "edison-parkfast-new-york-11",
+        "name": "Edison ParkFast",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3shFlvt9XDsj4VfaOzYPwA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/edison-parkfast-new-york-11?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 12,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 3,
+        "coordinates": {
+          "latitude": 40.7273034855567,
+          "longitude": -73.9930325746536
+        },
+        "transactions": [],
+        "location": {
+          "address1": "375 Lafayette St",
+          "address2": "",
+          "address3": "",
+          "city": "New York",
+          "zip_code": "10003",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "375 Lafayette St",
+            "New York, NY 10003"
+          ]
+        },
+        "phone": "+12122536950",
+        "display_phone": "(212) 253-6950",
+        "distance": 2432.886123161283
+      },
+      {
+        "id": "H4ge4vTL83lbnFe9UoVQ9w",
+        "alias": "edison-parkfast-new-york-24",
+        "name": "Edison ParkFast",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n0DQDI8yWFQ_HNQ_TIO6Xw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/edison-parkfast-new-york-24?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 22,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 2,
+        "coordinates": {
+          "latitude": 40.7590755,
+          "longitude": -73.9903521
+        },
+        "transactions": [],
+        "location": {
+          "address1": "332 W 44th St",
+          "address2": "",
+          "address3": "",
+          "city": "New York",
+          "zip_code": "10036",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "332 W 44th St",
+            "New York, NY 10036"
+          ]
+        },
+        "phone": "+12127578375",
+        "display_phone": "(212) 757-8375",
+        "distance": 5972.686746527824
+      },
+      {
+        "id": "NsfmMGSDXLhm0AAbZ4sr1A",
+        "alias": "ggmc-new-york-2",
+        "name": "Ggmc",
+        "image_url": "",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ggmc-new-york-2?adjust_creative=Y1CLR3ACRUpMX-5l7FKuAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y1CLR3ACRUpMX-5l7FKuAQ",
+        "review_count": 2,
+        "categories": [
+          {
+            "alias": "parking",
+            "title": "Parking"
+          }
+        ],
+        "rating": 5,
+        "coordinates": {
+          "latitude": 40.7496678939171,
+          "longitude": -74.0051270544879
+        },
+        "transactions": [],
+        "location": {
+          "address1": "550 W 25th St",
+          "address2": "",
+          "address3": null,
+          "city": "New York",
+          "zip_code": "10001",
+          "country": "US",
+          "state": "NY",
+          "display_address": [
+            "550 W 25th St",
+            "New York, NY 10001"
+          ]
+        },
+        "phone": "+12129290443",
+        "display_phone": "(212) 929-0443",
+        "distance": 5001.396159729238
+      }
+    ],
+    "total": 776,
+    "region": {
+      "center": {
+        "longitude": -73.99429321289062,
+        "latitude": 40.70544486444615
+      }
+    }
+  }
+}

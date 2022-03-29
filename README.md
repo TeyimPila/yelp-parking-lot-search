@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Getting Started with Yelp Search
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple application for searching the yelp website
 
-## Available Scripts
+# Running the application:
 
-In the project directory, you can run:
+To run the application, simply...
+- Clone with `git clone git@github.com:TeyimPila/yelp-parking-lot-search.git,
+- Create a file at the root of the project and copy content of `.env.sample` into it: `touch .env && cp .env.sample .env`
+- Get `<yelAPIKey>` with a value from the project description
+- Run `npm install` to install dependencies
+- Run `npm run start`. The application should run on `port 3000`
 
-### `npm start`
+# Room for improvement
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Given more time, I would do the following to make the project better
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Better styling
+- Dockerize for easy running
+- if the project grows bigger, I would use Redux for global state management
+- Use nextJS to enjoy the benefits of server side rendering and better SEO
+- Write tests for components and utility methods
+- Solve the CORS issue by implementing a proxy server to run my requests through
+- Add Themes
 
-### `npm test`
+# Design/Technical Consideration:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Avoid the use of real-time fetching (autosuggestion) results to avoid making too many requests to the server
+- Did not use Redux because of size of application. There is no need for global state management
+- Would have loved to, but could not Dockerize due to time constraint
+- To keep things simple, I use App.js as both the router and layout. This could be split in projects with a more complex layout
