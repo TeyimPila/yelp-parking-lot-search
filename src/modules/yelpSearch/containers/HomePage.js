@@ -20,7 +20,7 @@ const computeAndAddScore = (businesses) => {
 const HomePage = () => {
 
   const [location, setLocation] = useState('')
-  const [{ total, businesses }, setResponse] = useState({ total: 0, businesses: [] })
+  const [{ businesses }, setResponse] = useState({ total: 0, businesses: [] })
 
   const handleLocationChange = (inputVal) => {
     setLocation(inputVal.target.value)
