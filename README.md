@@ -10,6 +10,7 @@ To run the application, simply...
 - Get `<yelAPIKey>` with a value from the project description
 - Run `npm install` to install dependencies
 - Run `npm run start`. The application should run on `port 3000`
+- The `yelpService.js` file currently returns hard-coded results but the file has comments on how to remove them and make API calls. I did this due to rate limiting that was imposed by the proxy server that helped with cors
 
 # Room for improvement
 
